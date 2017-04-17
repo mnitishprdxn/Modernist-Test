@@ -378,4 +378,79 @@ footer ul {
   list-style: none;
 }
 
+footer section article p {
+  padding-top: 15px;
+}
+
+.from-the-blog-section article a {
+  display: block;
+  padding-top: 20px;
+  text-decoration: none;
+  color: #76C38F;
+}
+
+footer .from-the-blog-section article h2 {
+  color: #76C38F;
+}
+
+section ul li a {
+  text-decoration: none;
+  color: #76C38F;
+}
+
+section ul li {
+  padding: 10px 0;
+  border-bottom: 1px solid grey; 
+}
+
+
+section ul li:nth-child(1) {
+  padding-top: 0;
+}
+
+form input {
+  width: 100%;
+  background: #222222; 
+  border: none;
+  padding: 13px 0;
+    margin: 10px 0;
+    border-radius: 14px;
+}
+
+form textarea {
+  resize: none;
+  width: 99%;
+  height: 80px;
+  background: #222222; 
+  border: none;
+  border-radius: 14px;
+}
+
+::-webkit-input-placeholder {
+  padding-left: 10px;
+}
+
+form button {
+  margin-top: 13px;
+    background: #76C38F;
+    border: none;
+    border-radius: 9px;
+    color: white;
+    padding: 6%;
+    font-size: 1.4vw;
+    color: darkgreen;
+    text-transform: uppercase;
+}
+
+.bottom-footer {
+  height: 60px;
+  border-top: 1px solid black;
+  border-bottom: 5px solid black;
+}
+
+.bottom-footer span {
+   display: inline-block;
+  padding-top: 20px;
+  color: grey;
+}
 
