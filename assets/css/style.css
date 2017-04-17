@@ -499,6 +499,15 @@ form button {
 }
 
 @media screen and (max-width: 934px) {
+  .latest-work-imgs {
+    min-width: 50%;
+    padding: 0;
+    margin: 5px 0;
+  }
   
+  .latest-work-imgs img {
+    width: 100%;
+  }
+
 }
 
