@@ -511,3 +511,14 @@ form button {
 
 }
 
+@media screen and (max-width: 774px ) {
+
+  .banner-content {
+    min-width: 100%;
+    padding: 0;
+  }
+
+  .banner-content p {
+    font-size: 3vw;
+  }
+}
