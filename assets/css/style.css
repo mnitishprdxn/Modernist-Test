@@ -521,4 +521,9 @@ form button {
   .banner-content p {
     font-size: 3vw;
   }
+
+.banner-img {
+  min-width: 100%;
+}
+
 }
